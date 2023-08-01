@@ -57,6 +57,10 @@
             <div class="gallery-desc">DALLE: Tawehado Saint George</div>
         </div>
 
+        <div class="gallery-item">
+            <img src="TIDAL.png" alt="Photo 2" class="gallery-img">
+            <div class="gallery-desc">Explosion of Pride!</div>
+        </div>
         <!-- Add more gallery items as needed -->
         <!-- ... -->
     </div>
